@@ -1,1 +1,1 @@
-Aquí se guardan las partidas
+Aquí se guardan las partidas con un fichero .db
